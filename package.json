@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3",
+    "fetch": "^1.1.0",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.5",
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^19.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
